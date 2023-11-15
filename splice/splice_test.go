@@ -12,8 +12,8 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/lonegunmanb/go-yaml-edit/splice"
 	"github.com/mkmik/filetransformer"
-	"github.com/vmware-labs/go-yaml-edit/splice"
 	"golang.org/x/text/transform"
 )
 

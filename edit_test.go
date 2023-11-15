@@ -8,10 +8,10 @@ import (
 	"log"
 	"testing"
 
-	yamled "github.com/vmware-labs/go-yaml-edit"
-	yptr "github.com/vmware-labs/yaml-jsonpointer"
+	"github.com/lonegunmanb/atomatt-yaml"
+	yamled "github.com/lonegunmanb/go-yaml-edit"
+	yptr "github.com/lonegunmanb/yaml-jsonpointer"
 	"golang.org/x/text/transform"
-	"gopkg.in/yaml.v3"
 )
 
 // ExampleT shows how to use the transformer to edit a YAML source in place.

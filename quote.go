@@ -10,7 +10,7 @@ import (
 	"strings"
 	"unicode"
 
-	"gopkg.in/yaml.v3"
+	"github.com/lonegunmanb/atomatt-yaml"
 )
 
 // quote quotes a string into a yaml string.
